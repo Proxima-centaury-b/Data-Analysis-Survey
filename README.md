@@ -23,3 +23,6 @@ The notebook roughly follows this track:
 
 Dashboards are included in a global presentation on PDF format (DA_survey.pdf)
 
+**Datasets** : most of them come with scrapping or APIs or simply downloaded from an S3 repository.
+However, the GitHub Jobs API we used in this project is deprecated, so I provide the file countries.xls which represents 
+some data I got from this former API.
